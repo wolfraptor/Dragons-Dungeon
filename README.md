@@ -1,5 +1,4 @@
 # Dragons-Dungeon
-thats my private space
 
 Hi. I’m a front-end developer.
 
